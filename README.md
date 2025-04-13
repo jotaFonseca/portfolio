@@ -47,7 +47,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 📌 Como Usar
 
 1. Clone o repositório:
-   git clone https://github.com/seuusuario/seuportfolio.git
+   git clone https://github.com/seuusuario/portfolio.git
 2. Acesse a pasta do projeto
   cd portfolio
 3. Abra o arquivo index.html no seu navegador

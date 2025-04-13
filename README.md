@@ -28,18 +28,19 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 ## 📁 Estrutura do Projeto
-portfolio/ 
-  ├── index.html 
-  ├── about.html 
-  ├── projects.html 
-  ├── contact.html 
-  ├── projects/ 
-    │ ├── projeto1.html 
-    │ └── ... 
-  ├── css/ 
-  ├── js/ 
-  ├── assets/ 
-  └── README.md
+  portfolio/ 
+  
+    ├── index.html
+    ├── about.html
+    ├── projects.html
+    ├── contact.html
+    ├── projects/ 
+      │ ├── projeto1.html 
+      │ └── ... 
+    ├── css/ 
+    ├── js/ 
+    ├── assets/ 
+    └── README.md
 
 ---
 

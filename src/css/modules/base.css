@@ -1,0 +1,19 @@
+@import url('variable.css');
+body {
+  background-color: var(--color-bg);
+  color: var(--color-foreground);
+  font-size: var(--font-md);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--color-pink);
+  margin: 0 0 var(--space-sm);
+}
+
+a {
+  color: var(--color-cyan);
+  text-decoration: none;
+}

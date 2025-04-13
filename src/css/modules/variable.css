@@ -1,0 +1,36 @@
+:root {
+    /* Dracula Theme Colors */
+    --color-bg: #282a36;
+    --color-current-line: #44475a;
+    --color-foreground: #f8f8f2;
+    --color-comment: #6272a4;
+  
+    --color-pink: #ff79c6;
+    --color-cyan: #8be9fd;
+    --color-green: #50fa7b;
+    --color-yellow: #f1fa8c;
+    --color-orange: #ffb86c;
+    --color-red: #ff5555;
+    --color-purple: #bd93f9;
+  
+    /* Font Sizes */
+    --font-xs: 0.75rem;   /* 12px */
+    --font-sm: 0.875rem;  /* 14px */
+    --font-md: 1rem;      /* 16px */
+    --font-lg: 1.25rem;   /* 20px */
+    --font-xl: 1.5rem;    /* 24px */
+    --font-xxl: 2rem;     /* 32px */
+    --font-xxxl: 3rem;    /* 48px */
+  
+    /* Spacing (padding/margin/gap) */
+    --space-xs: 0.5rem;   /* 8px */
+    --space-sm: 1rem;     /* 16px */
+    --space-md: 1.5rem;   /* 24px */
+    --space-lg: 2rem;     /* 32px */
+    --space-xl: 3rem;     /* 48px */
+  
+    /* Border Radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+}

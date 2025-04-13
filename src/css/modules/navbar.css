@@ -1,0 +1,39 @@
+header {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 var(--space-lg) 0 var(--space-lg);
+}
+
+.nav-links {
+  display: flex;
+  gap: var(--space-lg);
+}
+
+.nav-links li {
+  list-style: none;
+}
+
+.nav-links a {
+  text-decoration: none;
+  position: relative;
+}
+
+.nav-links a::after {
+  background-color: var(--color-comment);
+  content: '';
+  display: block;
+  margin-top: 4px;
+  position: absolute;
+  height: 2px;
+  width: 0;
+  transition: .3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}

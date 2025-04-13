@@ -2,8 +2,6 @@
 
 Bem-vindo ao meu portfólio! Este projeto foi criado para apresentar minha trajetória como desenvolvedor front-end, mostrar os projetos que desenvolvi ao longo da minha jornada e fornecer um canal direto para contato profissional.
 
-![Screenshot do Portfólio](assets/images/screenshot.png)
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -46,7 +44,7 @@ portfolio/
 ## 📌 Como Usar
 
 1. Clone o repositório:
-   git clone https://github.com/seuusuario/seuportfolio.git
+   git clone https://github.com/jotaFonseca/portfolio.git
 2. Acesse a pasta do projeto
   cd portfolio
 3. Abra o arquivo index.html no seu navegador

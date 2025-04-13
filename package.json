@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu portfólio! Este projeto foi criado para apresentar minha trajetória como desenvolvedor front-end, mostrar os projetos que desenvolvi ao longo da minha jornada e fornecer um canal direto para contato profissional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.99.5"
+  }
+}
